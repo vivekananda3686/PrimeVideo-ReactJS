@@ -1,4 +1,4 @@
-In this project, let's build a **Prime Video** by applying the concepts we have learned till now.
+In this project, let's build a **Prime Video** .
 
 ### Refer to the video below:
 
@@ -10,15 +10,6 @@ In this project, let's build a **Prime Video** by applying the concepts we have 
   </video>
 </div>
 <br/>
-
-### Design Files
-
-<details>
-<summary>Click to view</summary>
-
-- [Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/prime-video-lg-output-img.png)
-
-</details>
 
 ### Set Up Instructions
 
@@ -156,10 +147,3 @@ Use these files to complete the implementation:
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
